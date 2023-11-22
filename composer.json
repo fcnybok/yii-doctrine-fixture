@@ -15,8 +15,8 @@
     ],
     "require": {
         "php": ">=8.1.0",
-        "fcnybok/yii-doctrine": "^1.0.11",
-        "doctrine/data-fixtures": "^1.6.6"
+        "fcnybok/yii-doctrine": "^1.1.0",
+        "doctrine/data-fixtures": "^1.6.7"
     },
     "require-dev": {
         "roave/infection-static-analysis-plugin": "^1.29",
